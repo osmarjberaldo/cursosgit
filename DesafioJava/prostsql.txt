@@ -1,0 +1,14 @@
+postgresql
+senha 987465
+port 5432
+
+
+
+erro instalação
+First run: regsvr32 %systemroot%\system32\vbscript.dll
+
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows Script Host\Settings or HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Script Host\Settings and select New, there are two DWORD Value options: DWORD (32-bit) Value and DWORD (64-bit) Value. Somewhat counterintuitively, DWORD (32-bit) Value is the one you should select.
+
+
+
