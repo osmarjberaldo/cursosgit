@@ -1915,42 +1915,42 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Álbum da Copa java</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Álbum da Copa java.java">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Coxinha de Bueno</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Coxinha de Bueno Java.java">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Degustação de vinho</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Degustação de vinho java.java">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
              <tr>
                 <td>Esfera</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Esfera Java.java">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
                <tr>
                 <td>Maior e Posição</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Maior e Posição Java.java">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
                 <tr>
                 <td>Média 2</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Média 2 java.java">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
                <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Multiplicação Simples Java.java">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
                <tr>
                 <td>Polígonos Regulares Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Polígonos Regulares Simples Java.java">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                          
         </table>  
