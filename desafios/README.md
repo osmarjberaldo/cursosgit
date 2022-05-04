@@ -7,27 +7,27 @@
  
 <p align="center">
   <!-- C# -->
-  <a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/C%20Sharp">
+  <a href="https://github.com/criandoideiasoficial/cursosgit/tree/main/desafios/C%20Sharp">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
   </a>
   <!-- Java -->
-  <a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java">
+  <a href="https://github.com/criandoideiasoficial/cursosgit/tree/main/desafios/Java">
     <img src="./assets/java.svg" alt="java" tittle="Java" width="70" height="70">
   </a>
   <!-- JavaScript -->
-  <a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript">
+  <a href="https://github.com/criandoideiasoficial/cursosgit/tree/main/desafios/JavaScript">
     <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
   </a>
   <!-- Kotlin -->
-  <a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Kotlin">
+  <a href="https://github.com/criandoideiasoficial/cursosgit/tree/main/desafios/Kotlin">
     <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
   </a>
   <!-- Python -->
-  <a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Python">
+  <a href="https://github.com/criandoideiasoficial/cursosgit/tree/main/desafios/Python">
     <img src="./assets/python.svg" alt="python" tittle="Python" width="70" height="70">
   </a>
   <!-- Ruby -->
-  <a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Ruby">
+  <a href="https://github.com/criandoideiasoficial/cursosgit/tree/main/desafios/Ruby">
     <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
   </a>
 </p><br>
