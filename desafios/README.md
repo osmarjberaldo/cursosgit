@@ -1900,6 +1900,60 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                                           
         </table>  
+        <!-- Desafio Java - GFT Start #5 Java - GFT -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/track/gft-start-5-java">Desafio Java - GFT Start #5 Java  - GFT</a></th>
+            </tr> 
+            <tr>
+                <th colspan="3">Java Fundamental GFT</th>
+            </tr>			
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Álbum da Copa java</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Álbum da Copa java.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Coxinha de Bueno</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Coxinha de Bueno Java.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Degustação de vinho</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Degustação de vinho java.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+             <tr>
+                <td>Esfera</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Esfera Java.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>    
+               <tr>
+                <td>Maior e Posição</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Maior e Posição Java.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+                <tr>
+                <td>Média 2</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Média 2 java.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+               <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Multiplicação Simples Java.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+               <tr>
+                <td>Polígonos Regulares Simples</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Polígonos Regulares Simples Java.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                                          
+        </table>  
 		<!-- Desafios Java - Aceleração Global Dev #18 - GFT -->
         <table border=1>
             <tr>
@@ -6120,15 +6174,7 @@ Através do botão "EXECUTAR TESTES", execute os testes abertos a qualquer momen
   <img src="./assets/desafio_03.png" alt="Image" width="100%" />
 </p>
 
-## [Discord](https://discord.com/invite/MUdRyVg)
- 
-Você também pode tirar dúvidas com milhares de Devs em nossa comunidade no Discord, acesse o link localizado no rodapé da página ou clique [aqui](https://discord.com/invite/MUdRyVg)
 
-<p align="center">
-  <img src="./assets/discord_link.png" alt="Image" width="100%" />
-</p>
-
-Após revisado e testado o seu código, você deve clicar no botão "ENTREGAR DESAFIO", para avaliação em tempo real.
 
 ## Solução de Desafio Java, JavaScript e Kotlin
 
