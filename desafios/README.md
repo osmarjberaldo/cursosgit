@@ -1639,17 +1639,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Abaixo Diagonal Principal</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Abaixo Diagonal Secundaria</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Acima Diagonal Secundaria</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                               
         </table>  
@@ -1668,17 +1668,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Mudança</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/A%20Mudan%C3%A7a">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/A%20Mudan%C3%A7a">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>A Mudança Continua!!</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/A%20Mudan%C3%A7a%20Continua!!">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/A%20Mudan%C3%A7a%20Continua!!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Colchão</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/Colch%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/Colch%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>   	
@@ -1697,17 +1697,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Fatorial Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/Fatorial%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/Fatorial%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Fibonacci Rápido</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/Fibonacci%20R%C3%A1pido">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/Fibonacci%20R%C3%A1pido">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Soma de Impares Consecutivos I</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/Soma%20de%20Impares%20Consecutivos%20I">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/Soma%20de%20Impares%20Consecutivos%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>  	
@@ -1726,17 +1726,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Análise De Números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/An%C3%A1lise%20De%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/An%C3%A1lise%20De%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Andando no Tempo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/Andando%20no%20Tempo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/Andando%20no%20Tempo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Saída 1</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/Sa%C3%ADda%201">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/Sa%C3%ADda%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>  		
@@ -1755,17 +1755,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>DDD</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/DDD">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/DDD">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Tempo do Dobby</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/Tempo%20do%20Dobby">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/Tempo%20do%20Dobby">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Visita na Feira</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/Visita%20na%20Feira">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>  	
@@ -1784,32 +1784,32 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Distância</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20QA%20%231/Dist%C3%A2ncia">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20QA%20%231/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20QA%20%231/Dividindo%20X%20por%20Y">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20QA%20%231/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Encaixa ou Não</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20QA%20%231/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20QA%20%231/Encaixa%20ou%20N%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
                 <td>Múltiplos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20QA%20%231/M%C3%BAltiplos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20QA%20%231/M%C3%BAltiplos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Soma Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20QA%20%231/Soma%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20QA%20%231/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Tempo de Jogo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20QA%20%231/Tempo%20de%20Jogo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20QA%20%231/Tempo%20de%20Jogo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   			
         </table> 		
@@ -1828,17 +1828,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Fases da Lua</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20Start%20%233%20Java/Fases%20da%20Lua">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20Start%20%233%20Java/Fases%20da%20Lua">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Reservatório de Mel</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20Start%20%233%20Java/Reservat%C3%B3rio%20de%20Mel">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20Start%20%233%20Java/Reservat%C3%B3rio%20de%20Mel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Senha Fixa</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20Start%20%233%20Java/Senha%20Fixa">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20Start%20%233%20Java/Senha%20Fixa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table> 
@@ -1857,17 +1857,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20Start%20%234%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20Start%20%234%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Notação Científica</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20Start%20%234%20Java/Notas%20e%20Moedas">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20Start%20%234%20Java/Notas%20e%20Moedas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Notas e Moedas</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20-%20GFT%20Start%20%234%20Java/Nota%C3%A7%C3%A3o%20Cient%C3%ADfica">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20-%20GFT%20Start%20%234%20Java/Nota%C3%A7%C3%A3o%20Cient%C3%ADfica">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table> 		
@@ -1886,17 +1886,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Cálculo Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/C%C3%A1lculo%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/C%C3%A1lculo%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Distância Entre Dois Pontos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Dist%C3%A2ncia%20Entre%20Dois%20Pontos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Dist%C3%A2ncia%20Entre%20Dois%20Pontos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Esfera</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Esfera">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Esfera">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                           
         </table>  
@@ -1915,42 +1915,42 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Álbum da Copa java</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Álbum da Copa java.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Coxinha de Bueno</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Coxinha de Bueno Java.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Degustação de vinho</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Degustação de vinho java.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
              <tr>
                 <td>Esfera</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Esfera Java.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
                <tr>
                 <td>Maior e Posição</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Maior e Posição Java.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
                 <tr>
                 <td>Média 2</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Média 2 java.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
                <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Multiplicação Simples Java.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
                <tr>
                 <td>Polígonos Regulares Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Polígonos Regulares Simples Java.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                          
         </table>  
@@ -1969,17 +1969,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Cachorros-Quentes</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Cachorros-Quentes">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Cachorros-Quentes">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Copa</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Copa">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Montanha-Russa</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Montanha-Russa">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Montanha-Russa">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table> 	
@@ -1998,17 +1998,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Soma de Ímpares Consecutivos II</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20-%20Cognizant/Soma%20de%20%C3%8Dmpares%20Consecutivos%20II">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20-%20Cognizant/Soma%20de%20%C3%8Dmpares%20Consecutivos%20II">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Soma de Ímpares Consecutivos III</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20-%20Cognizant/Soma%20de%20%C3%8Dmpares%20Consecutivos%20III">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20-%20Cognizant/Soma%20de%20%C3%8Dmpares%20Consecutivos%20III">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Programa para Validação de Notas</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20-%20Cognizant/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20-%20Cognizant/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>  		
@@ -2027,17 +2027,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Tipo de Combustível</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20Avanade/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20Avanade/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>PUM</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20Avanade/PUM">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20Avanade/PUM">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Resto da Divisão</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20Avanade/Resto%20da%20Divis%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20Avanade/Resto%20da%20Divis%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>  
@@ -2056,17 +2056,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Feliz Nataaal!</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Feliz%20Nataaal!">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Feliz%20Nataaal!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Galopeira</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Galopeira">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Galopeira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tempo de Jogo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Tempo%20de%20Jogo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Tempo%20de%20Jogo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>		
@@ -2085,17 +2085,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Enjoy the Offer</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Enjoy%20the%20Offer">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Enjoy%20the%20Offer">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Exchanging Cards</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Exchanging%20Cards">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Exchanging%20Cards">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Head or Tail</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Head%20or%20Tail">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Head%20or%20Tail">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table> 		
@@ -2114,17 +2114,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Diving</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Jumping Frog</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Parenthesis Balance I</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table>  		
@@ -2143,17 +2143,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Análise De Números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Contagem Repetida de números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Divisores</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>           
@@ -2172,17 +2172,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Mudança</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Área Superior</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fibonacci em Vetor</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>    
@@ -2201,17 +2201,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Batalha de Digitrons</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20B%C3%A1sicos-%20GFT%20Start%20%233%20Java/Batalha%20de%20Digitrons">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20B%C3%A1sicos-%20GFT%20Start%20%233%20Java/Batalha%20de%20Digitrons">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Lanche</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20B%C3%A1sicos-%20GFT%20Start%20%233%20Java/Lanche">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20B%C3%A1sicos-%20GFT%20Start%20%233%20Java/Lanche">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quantidade de números positivos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20B%C3%A1sicos-%20GFT%20Start%20%233%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20B%C3%A1sicos-%20GFT%20Start%20%233%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>  
@@ -2230,17 +2230,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área do Círculo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%234%20Java/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%234%20Java/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>O Filme</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%234%20Java/O%20Filme">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%234%20Java/O%20Filme">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Visita na Feira</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%234%20Java/Visita%20na%20Feira">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%234%20Java/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>  
@@ -2259,17 +2259,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Pink e Cérebro</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Pink%20e%20C%C3%A9rebro">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Pink%20e%20C%C3%A9rebro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quadrado e ao Cubo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Quadrado%20e%20ao%20Cubo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table> 	
@@ -2288,17 +2288,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Notas da Prova</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Notas%20da%20Prova">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Notas%20da%20Prova">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Sequência Lógica</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tuitando</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Tuitando">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Tuitando">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>		
@@ -2317,17 +2317,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Volume da TV</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20em%20Java%20-%20Sportheca/Volume%20da%20TV">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20em%20Java%20-%20Sportheca/Volume%20da%20TV">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quanta Mandioca?</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20em%20Java%20-%20Sportheca/Quanta%20Mandioca">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20em%20Java%20-%20Sportheca/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Imprevistos Natalinos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20em%20Java%20-%20Sportheca/Imprevistos%20Natalinos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20em%20Java%20-%20Sportheca/Imprevistos%20Natalinos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>  			
@@ -2346,17 +2346,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Resto 2</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Resto%202">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Resto%202">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Xadrez</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Xadrez">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Xadrez">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>  	
@@ -2375,17 +2375,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Dama</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/Dama">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/Dama">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Média 1</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/M%C3%A9dia%201">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/M%C3%A9dia%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>  			
@@ -2404,27 +2404,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Andando no Tempo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20iniciais%20em%20Java/Andando%20no%20Tempo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20iniciais%20em%20Java/Andando%20no%20Tempo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fases da Lua</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20iniciais%20em%20Java/Fases%20da%20Lua">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20iniciais%20em%20Java/Fases%20da%20Lua">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Intervalo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20iniciais%20em%20Java/Intervalo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20iniciais%20em%20Java/Intervalo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>     
             <tr>
                 <td>Lanche</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20iniciais%20em%20Java/Lanche">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20iniciais%20em%20Java/Lanche">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tabuada</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20iniciais%20em%20Java/Tabuada">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20iniciais%20em%20Java/Tabuada">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  			
         </table>  	
@@ -2443,17 +2443,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Mensagem do padre do balão</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%233%20Java/A%20Mensagem%20do%20padre%20do%20bal%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%233%20Java/A%20Mensagem%20do%20padre%20do%20bal%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Acima da Diagonal Principal</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%233%20Java/Acima%20da%20Diagonal%20Principal">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%233%20Java/Acima%20da%20Diagonal%20Principal">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Top N</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%233%20Java/Top%20N">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%233%20Java/Top%20N">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>  	
@@ -2472,17 +2472,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área Direita</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%234%20Java/%C3%81rea%20Direita">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%234%20Java/%C3%81rea%20Direita">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Experiências</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%234%20Java/Experi%C3%AAncias">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%234%20Java/Experi%C3%AAncias">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>O Tabuleiro Secreto</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%234%20Java/O%20Tabuleiro%20Secreto">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%234%20Java/O%20Tabuleiro%20Secreto">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table> 		
@@ -2501,17 +2501,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Fórmula de Bhaskara</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/F%C3%B3rmula%20de%20Bhaskara">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/F%C3%B3rmula%20de%20Bhaskara">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Taxa de Imposto de Renda</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Vai Ter Copa</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Vai%20Ter%20Copa">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Vai%20Ter%20Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>  		
@@ -2530,32 +2530,32 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Dama</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Developer/Dama">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Developer/Dama">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fuso Horário</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Developer/Fuso%20Hor%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Developer/Fuso%20Hor%C3%A1rio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>MacPRONALTS</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Developer/MacPRONALTS">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Developer/MacPRONALTS">Código</a></td>
                 <td align="center">✔️</td>
             </tr>     
             <tr>
                 <td>Par ou Ímpar</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Developer/Par%20ou%20%C3%8Dmpar">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Developer/Par%20ou%20%C3%8Dmpar">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Trigo no Tabuleiro</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Developer/Trigo%20no%20Tabuleiro">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Developer/Trigo%20no%20Tabuleiro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Xadrez</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Developer/Xadrez">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Developer/Xadrez">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   			
         </table>     	
@@ -2574,17 +2574,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Batmain</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Batmain">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Batmain">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Diferença</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Diferen%C3%A7a">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Diferen%C3%A7a">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Pares entre Cinco Números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table> 		
@@ -2603,17 +2603,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área Direita</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Direita">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Direita">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Área Esquerda</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Esquerda">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Esquerda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Área Inferior</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Inferior">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Inferior">Código</a></td>
                 <td align="center">✔️</td>
             </tr>      
             <tr>
@@ -2629,17 +2629,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Análise De Números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Bootcamps/An%C3%A1lise%20De%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Bootcamps/An%C3%A1lise%20De%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Seis Números Ímpares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Bootcamps/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Bootcamps/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Visita na Feira</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Bootcamps/Visita%20na%20Feira">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Bootcamps/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                  
         </table>        
@@ -2658,17 +2658,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Análise de Números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Contagem de Cédulas</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/Contagem%20de%20C%C3%A9dulas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
@@ -2681,17 +2681,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Divisores I</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Divisores%20I">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Divisores%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr>               
             <tr>
                 <td>Média 1</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/M%C3%A9dia%201">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/M%C3%A9dia%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fatorial Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Fatorial%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Fatorial%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                     
             <tr>
@@ -2704,17 +2704,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Conversão de Tempo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Convers%C3%A3o%20de%20Tempo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fatorial Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Fatorial%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Fatorial%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>             
             <tr>
                 <td>Seis Números Ímpares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
@@ -2727,12 +2727,12 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área Esquerda</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/%C3%81rea%20Esquerda">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/%C3%81rea%20Esquerda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Encaixa ou Não</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                         
         </table>    
@@ -2751,17 +2751,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Distância</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Dist%C3%A2ncia">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Ho Ho Ho</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Ho%20Ho%20Ho">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Ho%20Ho%20Ho">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quadrante</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Quadrante">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Quadrante">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>   
@@ -2780,47 +2780,47 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Tempo do Dobby</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Tempo%20do%20Dobby">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Tempo%20do%20Dobby">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tabuada</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Tabuada">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Tabuada">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fases da Lua</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Fases%20da%20Lua/Quadrante">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Fases%20da%20Lua/Quadrante">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Acima da Diagonal Secundária</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Acima%20da%20Diagonal%20Secund%C3%A1ria">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Acima%20da%20Diagonal%20Secund%C3%A1ria">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Colchão</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Colch%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Colch%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  		
             <tr>
                 <td>Reservatório de Mel</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Reservat%C3%B3rio%20de%20Mel">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Reservat%C3%B3rio%20de%20Mel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Contagem repetida de números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Contagem%20Repetida%20de%20n%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Contagem%20Repetida%20de%20n%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Vogais Extraterrestres</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Desafios%20Sportheca/Vogais%20Extraterrestres">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Desafios%20Sportheca/Vogais%20Extraterrestres">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 			
         </table>   		
@@ -2839,27 +2839,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Análise de Números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Consumo Médio do Automóvel</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Contagem de Cédulas</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Contagem%20de%20C%C3%A9dulas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quantidade de números positivos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
         </table>             
@@ -2881,17 +2881,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>DDD</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Entrada e Saída CPF</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>    
@@ -2916,17 +2916,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Contagem de Cédulas</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Contagem%20de%20C%C3%A9dulas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>                 
@@ -2945,27 +2945,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Atalhos para o Weblogger Brasil</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Atalhos%20para%20o%20Weblogger%20Brasil">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Atalhos%20para%20o%20Weblogger%20Brasil">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Encontre a maior substring</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Encontre%20a%20maior%20substring">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Encontre%20a%20maior%20substring">Código</a></td>
                 <td align="center">✔️</td>
             </tr>     
             <tr>
                 <td>Ordenação de Palavras por Tamanho</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Ordena%C3%A7%C3%A3o%20de%20Palavras%20por%20Tamanho">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Ordena%C3%A7%C3%A3o%20de%20Palavras%20por%20Tamanho">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Pedra, Papel, Tesoura, Lagarto e Spock</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Pedra%2C%20Papel%2C%20Tesoura%2C%20Lagarto%20e%20Spock">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Pedra%2C%20Papel%2C%20Tesoura%2C%20Lagarto%20e%20Spock">Código</a></td>
                 <td align="center">✔️</td>
             </tr>        
             <tr>
                 <td>Validador de Senhas com requisitos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Validador%20de%20Senhas%20com%20requisitos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Validador%20de%20Senhas%20com%20requisitos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                            
         </table>      
@@ -2984,17 +2984,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Média 1</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/M%C3%A9dia%201">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/M%C3%A9dia%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
                 <td>Soma Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Soma%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
@@ -3007,17 +3007,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>             
             <tr>
                 <td>Visita na Feira</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Visita%20na%20Feira">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>             
             <tr>
@@ -3030,17 +3030,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>    
             <tr>
                 <td>Encaixa ou Não</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/Encaixa%20ou%20N%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Múltiplos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/M%C3%BAltiplos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/M%C3%BAltiplos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Tempo de Jogo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/Tempo%20de%20Jogo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/Tempo%20de%20Jogo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>               
             <tr>
@@ -3053,17 +3053,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>  
             <tr>
                 <td>Área Direita</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/%C3%81rea%20Direita">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/%C3%81rea%20Direita">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Conversão Simples de Base</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                             
             <tr>
                 <td>Quadrado e ao Cubo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Quadrado%20e%20ao%20Cubo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                                            
         </table>     
@@ -3082,17 +3082,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Conversão de Tempo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/Convers%C3%A3o%20de%20Tempo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>DDD</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Tuitando</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/Tuitando">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/Tuitando">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                      
         </table>    
@@ -3111,27 +3111,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Resposta de Theon</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/A%20Resposta%20de%20Theon">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/A%20Resposta%20de%20Theon">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Divisores I</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/Divisores%20I">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/Divisores%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Domingo de Manhã</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/Domingo%20de%20Manh%C3%A3">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/Domingo%20de%20Manh%C3%A3">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
                 <td>Média 1</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/M%C3%A9dia%201">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/M%C3%A9dia%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Xadrez</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/Xadrez">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Mais%20Desafios%20-%20GFT%20QA%20%231/Xadrez">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 			
         </table> 		
@@ -3153,27 +3153,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Ordenando Números Pares e Ímpares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Compras no Supermercado</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Compras%20no%20Supermercado">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Compras%20no%20Supermercado">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Uniformes de Final de Ano</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Uniformes%20de%20Final%20de%20Ano">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Uniformes%20de%20Final%20de%20Ano">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fila do Banco</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Fila%20do%20Banco">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Fila%20do%20Banco">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Gincana no Acampamento</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Gincana%20no%20Acampamento">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Bootcamps/Gincana%20no%20Acampamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
@@ -3192,27 +3192,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Abreviando posts do Blog</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Abreviando%20posts%20do%20Blog">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Abreviando%20posts%20do%20Blog">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Conjuntos Bons ou Ruins</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Conjuntos%20Bons%20ou%20Ruins">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Conjuntos%20Bons%20ou%20Ruins">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Encontre a maior substring</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Encontre%20a%20maior%20substring">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Encontre%20a%20maior%20substring">Código</a></td>
                 <td align="center">✔️</td>
             </tr>         
             <tr>
                 <td>Entrevista Embaraçosa</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Entrevista%20Embara%C3%A7osa">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Entrevista%20Embara%C3%A7osa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Validador Senhas</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Validador%20Senhas">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Validador%20Senhas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                          
         </table>     
@@ -3231,17 +3231,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Mês</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/M%C3%AAs">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/M%C3%AAs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Teste de Seleção 1</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Validação de Nota</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                  
         </table>     
@@ -3260,17 +3260,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Distância</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Dist%C3%A2ncia">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Soma Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Soma%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                                                  
         </table>   
@@ -3284,17 +3284,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Quantidade Números Positivos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/Bootcamps/Quantidade%20N%C3%BAmeros%20Positivos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/Bootcamps/Quantidade%20N%C3%BAmeros%20Positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Seis Números Ímpares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/Bootcamps/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/Bootcamps/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Visita na Feira</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/Bootcamps/Visita%20na%20Feira">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/Bootcamps/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
            <tr>
@@ -3307,17 +3307,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Resposta de Theon</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/A%20Resposta%20de%20Theon">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/A%20Resposta%20de%20Theon">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Divisores I</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/Divisores%20I">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/Divisores%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Domingo de Manhã</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/Domingo%20de%20Manh%C3%A3">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/Domingo%20de%20Manh%C3%A3">Código</a></td>
                 <td align="center">✔️</td>
             </tr>      
            <tr>
@@ -3330,17 +3330,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Batmain</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Batmain">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Batmain">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Diferença</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Diferen%C3%A7a">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Diferen%C3%A7a">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Pares entre Cinco Números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                            
         </table>                           
@@ -3362,27 +3362,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Coração das Cartas</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/Cora%C3%A7%C3%A3o%20das%20Cartas">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/Cora%C3%A7%C3%A3o%20das%20Cartas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Abreviando Posts do Blog</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/Abreviando%20Posts%20do%20Blog">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/Abreviando%20Posts%20do%20Blog">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Combinação de Strings</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/Combina%C3%A7%C3%A3o%20de%20Strings">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/Combina%C3%A7%C3%A3o%20de%20Strings">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Hash Mágico</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/Hash%20M%C3%A1gico">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/Hash%20M%C3%A1gico">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>O Tabuleiro Secreto</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/O%20Tabuleiro%20Secreto">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Bootcamps/O%20Tabuleiro%20Secreto">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
@@ -3401,17 +3401,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Evitando Chuva</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20em%20Java/Evitando%20Chuva">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20em%20Java/Evitando%20Chuva">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Preenchimento de Vetor III</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20em%20Java/Preenchimento%20de%20Vetor%20III">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20em%20Java/Preenchimento%20de%20Vetor%20III">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Uniformes de final de ano</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20em%20Java/Uniformes%20de%20final%20de%20ano">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20em%20Java/Uniformes%20de%20final%20de%20ano">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>      
@@ -3433,17 +3433,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Entrada e Saída de Números Inteiros</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Entrada%20e%20Sa%C3%ADda%20de%20N%C3%BAmeros%20Inteiros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Entrada%20e%20Sa%C3%ADda%20de%20N%C3%BAmeros%20Inteiros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Senha Fixa</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Senha%20Fixa">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Senha%20Fixa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tamanho da Placa</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Tamanho%20da%20Placa">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Tamanho%20da%20Placa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>   
@@ -3465,17 +3465,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Mensagem do padre do balão</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/A%20Mensagem%20do%20padre%20do%20bal%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/A%20Mensagem%20do%20padre%20do%20bal%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Crescente e Decrescente</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/Crescente%20e%20Decrescente">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/Crescente%20e%20Decrescente">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Reservatório de Mel</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/Reservat%C3%B3rio%20de%20Mel">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/Reservat%C3%B3rio%20de%20Mel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>  		
@@ -3494,17 +3494,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Idade em Dias</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Idade%20em%20Dias">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Idade%20em%20Dias">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Notas da Prova</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Notas%20da%20Prova">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Notas%20da%20Prova">Código</a></td>
                 <td align="center">✔️</td>
             </tr>          
         </table>
@@ -3523,37 +3523,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Barras de Ouro</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Barras%20de%20Ouro">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Barras%20de%20Ouro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Conjuntos Bons ou Ruins</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Conjuntos%20Bons%20ou%20Ruins">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Conjuntos%20Bons%20ou%20Ruins">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Contagem Repetida de números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Contagem%20Repetida%20de%20n%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Contagem%20Repetida%20de%20n%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Entrevista Embaraçosa</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Entrevista%20Embara%C3%A7osa">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Entrevista%20Embara%C3%A7osa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Melhor amigo do Pablo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Melhor%20amigo%20do%20Pablo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Melhor%20amigo%20do%20Pablo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Produto e divisão</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Produto%20e%20divis%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Produto%20e%20divis%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>        
             <tr>
                 <td>Vogais Extraterrestres</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Vogais%20Extraterrestres">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Vogais%20Extraterrestres">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                  
         </table>  
@@ -3572,27 +3572,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área do Círculo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Combina Strings</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/Combina%20Strings">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/Combina%20Strings">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Corrida Tartaruga</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/Corrida%20Tartaruga">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/Corrida%20Tartaruga">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Encaixa ou Não</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/Encaixa%20ou%20N%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Média 3</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/M%C3%A9dia%203">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/Santander%20Bootcamp%20%20Fullstack%20Developer/M%C3%A9dia%203">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
@@ -3605,27 +3605,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área do Círculo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Combina Strings</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/Combina%20Strings">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/Combina%20Strings">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Corrida Tartaruga</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/Corrida%20Tartaruga">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/Corrida%20Tartaruga">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Encaixa ou Não</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tempo de Jogo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/Tempo%20de%20Jogo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20Desafios%20em%20Java/GFT%20START%20%232%20Java/Tempo%20de%20Jogo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                     
         </table>     
@@ -3644,27 +3644,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Análise De Números</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/An%C3%A1lise%20De%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/An%C3%A1lise%20De%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
             <tr>
                 <td>Área do Círculo</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Cálculo de Viagem</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/C%C3%A1lculo%20de%20Viagem">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/C%C3%A1lculo%20de%20Viagem">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Múltiplos</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/M%C3%BAltiplos">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/M%C3%BAltiplos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
         </table>  		
@@ -3683,17 +3683,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
             <tr>
                 <td>Menor e Posição</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/Menor%20e%20Posi%C3%A7%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/Menor%20e%20Posi%C3%A7%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Números Ímpares</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/blob/main/desafios/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>                 
