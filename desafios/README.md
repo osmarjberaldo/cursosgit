@@ -5359,6 +5359,46 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/Pedro%20Bento%20e%20o%20Mundo%20de%20OZ">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+            <tr>
+                <td>Soma de Pares Consecutivos</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Soma de Pares Consecutivos.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+             <tr>
+                <td>Subtraindo o produto e a soma de um número inteiro</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Subtraindo o produto e a soma de um número inteiro.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+               <tr>
+                <td>Reduzindo um número a zero</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Reduzindo um número a zero.txt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+                  <tr>
+                <td>Lanche</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Lanche.txt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+                  <tr>
+                <td>Área do Círculo</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Área do Círculo.txt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+                   <tr>
+                <td>Deu a louca no gerente</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Deu a louca no gerente.txt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+                   <tr>
+                <td>Média 1</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Média 1.txt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+                     <tr>
+                <td>Soma de números naturais</td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Soma de números naturais.txt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
         </table>     
     </div>
 </details>
