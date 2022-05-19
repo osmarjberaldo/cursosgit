@@ -3989,7 +3989,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Aumento de Salário</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Desafios%20de%20c%C3%B3digo%20em%20JavaScript/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/tree/main/desafios/JavaScript/Desafios%20de%20c%C3%B3digo%20em%20JavaScript/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
