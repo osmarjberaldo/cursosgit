@@ -4454,7 +4454,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Animal</td>
-                <td><a href="https://github.com/criandoideiasoficial/cursosgit/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Animal">Código</a></td>
+                <td><a href="https://github.com/criandoideiasoficial/cursosgit/tree/main/desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Animal">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
